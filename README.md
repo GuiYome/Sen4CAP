@@ -1,3 +1,7 @@
+# Disclaimer
+
+This is a fork of Sen4Cap project. It aims at helping resolving some issues and not at making any pull request or evolution. Please refer to original repository for any work with Sen4Cap: https://github.com/Sen4CAP/Sen4CAP.
+
 # ![logo](http://esa-sen4cap.org/sites/default/files/sen4cap_logo_m.png)
 
 # Sen4CAP - Sentinels for Common Agriculture Policy
